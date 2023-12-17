@@ -23,7 +23,7 @@ Skills
 
 Education
 ======
-* MPhil. Computer Science, HKUST, 2021
+* MPhil. Computer Science and Engineering, HKUST, 2021
 * BEng. in Computer Science, HKUST, 2019
 
 <!-- 
