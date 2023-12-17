@@ -13,7 +13,7 @@ Work experience
 ======
 * 2021-Present: Data Scientist, Societe Generale CIB
 * 2019-2021: Data Science Researcher, HKUST
-* -2019: Quantitative analyst internships, multiple companies
+* -2019: Quantitative Analyst internships, multiple companies
   
 Skills
 ======
