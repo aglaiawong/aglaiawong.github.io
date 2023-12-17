@@ -22,7 +22,7 @@ Work experience
   
 Skills
 ======
-* Python, C/C++, VBA, R, SQL, Spark
+* Python, C/C++, VBA, R, SQL, Spark, Linux, Git, Docker, AWS, Azure
 * Financial Markets
 * Project Management
 
