@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* MPhil. Computer Science, HKUST, 2021
-* BEng. in Computer Science, HKUST, 2019
-
 Work experience
 ======
 * 2021-Present: Data Scientist, Societe Generale CIB
@@ -26,6 +21,10 @@ Skills
 * Financial Markets
 * Project Management
 
+Education
+======
+* MPhil. Computer Science, HKUST, 2021
+* BEng. in Computer Science, HKUST, 2019
 
 <!-- 
 Publications
