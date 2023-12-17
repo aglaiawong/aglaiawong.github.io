@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /sitemap/
+permalink: /6b0d1c558c93b0e25f36d2f8bf8211a847f599ea2287c626d85fd9975e6c79f9/
 author_profile: true
 ---
 
